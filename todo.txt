@@ -1,0 +1,11 @@
+Table componenet
+- search / filter by name
+
+Convert for vuex
+- api calls
+- caching
+
+Wrapping up
+- css
+- loadstates
+- Readme
